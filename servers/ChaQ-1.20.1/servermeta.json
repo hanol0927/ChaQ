@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/TestRoot4/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "차큐",
+    "description": "차큐 1.20.1 (Forge v47.4.10)",
+    "icon": "https://hanol0927.github.io/ChaQ/servers/ChaQ-1.20.1/Icon.png",
+    "address": "114.207.212.98:10013",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.10"
+  },
+  "untrackedFiles": []
+}
