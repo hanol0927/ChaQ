@@ -5,17 +5,17 @@
     "name": "차큐",
     "description": "차큐 1.20.1 (Forge v47.4.10)",
     "icon": "https://hanol0927.github.io/ChaQ/servers/ChaQ-1.20.1/Icon.png",
-    "address": "114.207.212.98:10013",
+    "address": "devnetwork.dotsminestudio.kr:10013",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": true
   },
   "forge": {
-    "version": "47.4.10"
+    "version": "47.4.0"
   },
   "untrackedFiles": []
 }

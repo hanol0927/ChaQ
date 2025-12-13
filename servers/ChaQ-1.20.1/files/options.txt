@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/DetailedAnimationsReworked - V1.15.zip"]
+resourcePacks:["mod_resources","vanilla","file/§6Prehistoric §fAge §","file/DetailedAnimationsReworked - V1.15.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
