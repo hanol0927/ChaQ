@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["mod_resources","vanilla","file/§6Prehistoric §fAge §","file/DetailedAnimationsReworked - V1.15.zip"]
+resourcePacks:["mod_resources","vanilla","file/DetailedAnimationsReworked - V1.15.zip","file/CYML"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
@@ -203,3 +203,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+
